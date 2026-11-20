@@ -1,5 +1,9 @@
 Added Ir Morse Beacon into main menu, also added a themes selector that defaults to dolphin. 
 
+Using the Double Barrel for Ir beacon and other function from IOTMUG
+
+https://www.iotmug.com/flipper-zero-double-barreled-ir-led-blaster-dazzler-850nm
+
 Can read themes not embedded placed in Sd/themes.
 
 Can put many theme folders of your choosing in the folder and combine the manifests together and it will rotate themes.
